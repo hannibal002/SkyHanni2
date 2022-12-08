@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+run/
+build/
+
+# gradle
+build
+gradle.properties
+.gradle
+
+#other
+.DS_STORE
