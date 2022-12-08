@@ -1,0 +1,22 @@
+{
+  "package": "at.hannibal2.skyhanni.mixins.transformers",
+  "refmap": "mixins.skyhanni.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "AccessorGuiPlayerTabOverlay",
+    "MixinNetHandlerPlayClient",
+    "MixinNetworkManager",
+    "MixinRenderGlobal",
+    "MixinRenderItem",
+    "MixinRenderManager",
+    "gui.AccessorGuiContainer",
+    "gui.MixinGuiContainer",
+    "gui.inventory.GuiEditSignMixin",
+    "renderer.MixinBlockRendererDispatcher",
+    "renderer.MixinRendererLivingEntity",
+    "tileentity.TileEntitySignMixin"
+  ],
+  "client": [
+    "gui.MixinGuiNewChat"
+  ]
+}

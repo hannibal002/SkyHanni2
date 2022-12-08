@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "skyhanni",
+    "name": "SkyHanni",
+    "description": "Hypixel Skyblock Mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["hannibal2"],
+    "credits": "Alea1337 & Eisengolem",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
